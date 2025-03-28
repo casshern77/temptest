@@ -6,3 +6,4 @@ di seguito gli ingreedienti necessari
 * spaghetti
 * pancetta
 * parmiggiano
+* pepe
